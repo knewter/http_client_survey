@@ -1,0 +1,3 @@
+[ "hackney": {:git, "git://github.com/benoitc/hackney.git", "04c4314b55331a5dbc7e9db33083cafaebaede81", []},
+  "ibrowse": {:git, "git://github.com/cmullaparthi/ibrowse.git", "2e13b63788f48934ab9b075b9d741bfa814d0d6d", []},
+  "mimetypes": {:git, "https://github.com/spawngrid/mimetypes.git", "47d37a977a7d633199822bf6b08353007483d00f", [{:ref, "master"}]} ]
